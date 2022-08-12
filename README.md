@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/WilliyWonka/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/WilliyWonka/WillyWonka/blob/output/github-contribution-grid-snake.gif)
